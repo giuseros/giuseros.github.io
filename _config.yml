@@ -6,8 +6,7 @@ url: https://giuseros.github.io
 
 theme: minima
 
-minima:
-  skin: dark
+future: true
 
 plugins:
   - jekyll-feed
