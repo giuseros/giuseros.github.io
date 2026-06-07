@@ -4,7 +4,8 @@ author: Giuseppe
 email: giuseros85@gmail.com
 url: https://giuseros.github.io
 
-theme: minima
+# Custom theme lives in _layouts / _includes / assets (no gem theme).
+accent: "#4f46e5"
 
 future: true
 
@@ -12,3 +13,9 @@ plugins:
   - jekyll-feed
 
 markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

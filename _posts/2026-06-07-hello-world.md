@@ -2,6 +2,7 @@
 layout: post
 title: "Hello, World"
 date: 2026-06-07
+tags: [intro, edge-ai]
 ---
 
 Hi, I'm Giuseppe. I work in GPU architecture, which is my true passion — but also my job. So this blog is deliberately *not* about that.
